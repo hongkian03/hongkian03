@@ -8,16 +8,16 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kianhong-tan-kh/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img height="50" src="link_15047553.png" alt="link to my Linkedin"/>
 </a>
 <a href="https://hongkian03.github.io/personal_website/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+  <img height="50" src="dashboard_14376457.png" alt="link to my personal website"/>
 </a>
 <a href="https://github.com/hongkian03">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+  <img height="50" src="github_889111.png" alt="link to my Github (you're already here!)"/>
 </a>
 <a href="https://www.instagram.com/t_k.h_/?hl=en">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="camera_1014650.png" alt="link to my Instagram"/>
 </a>
 </p>
 
