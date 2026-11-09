@@ -75,6 +75,8 @@
     "Backend Software Engineering",
     "Agentic AI",
     "Data Analytics/Engineering",
+    "Medical AI",
+    "Quantitative Finance"
   }
 
   currently_learning: {
