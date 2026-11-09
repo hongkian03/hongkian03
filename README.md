@@ -19,11 +19,6 @@
     "Data Analytics/Engineering",
   }
 
-  technical_background: {
-    "Research Assistant, Kolachalama Lab"
-    "Data Analytics Intern, International Sibling Society",
-  }
-    
   currently_learning: {
     "building my own AI agent",
     "distributed systems",
