@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi! I'm Kian Hong
 
-<!--
-**hongkian03/hongkian03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+  name: "Kian Hong Tan"
+  loc_city: "Boston, MA"
+  loc_country: "United States"
+  from: "Singapore"
+  education: {
+    degree: "Bachelor of Arts",
+    major: "Mathematics and Computer Science",
+    university: "Boston University",
+    expected_grad: "May 2028"
+  }
 
-Here are some ideas to get you started:
+  fields_of_interests: {
+    "Backend Software Engineering",
+    "Agentic AI",
+    "Data Analytics/Engineering",
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  technical_background: {
+    "Research Assistant, Kolachalama Lab"
+    "Data Analytics Intern, International Sibling Society",
+  }
+    
+  currently_learning: {
+    "building my own AI agent",
+    "distributed systems",
+    "neural networks and autoencoders",
+    "AI/ML research"
+  }
+
+  hobbies: {
+      "distance running",
+      "watching soccer",
+      "reading nonfiction books"
+  }
+
+  longterm_goals: {
+    "keep nerding out about CS",
+    "run the Boston marathon",
+    "start a business and build something meaningful"
+  }
+}
+```
